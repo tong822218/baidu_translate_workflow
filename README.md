@@ -1,0 +1,2 @@
+# baidu_translate_workflow
+用python写的百度翻译workflow插件，支持多语言配置
