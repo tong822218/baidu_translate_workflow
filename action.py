@@ -4,13 +4,13 @@ import sys
 import json
 import webbrowser
 import urllib
+import logging
+import logging.handlers 
 from workflow import Workflow
 reload(sys)
 sys.setdefaultencoding('utf-8')
-import logging
-import logging.handlers 
-
 def getLog():
+    '''获取logger'''
     logger = logging.getLogger("mylogger") 
     logger.setLevel("DEBUG") #设置级别为DEBUG，覆盖掉默认级别WARNING  
     fh = logging.FileHandler('./log')  
