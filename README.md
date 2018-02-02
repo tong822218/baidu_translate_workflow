@@ -1,6 +1,8 @@
 # baidu_translate_workflow
 用python写的百度翻译workflow插件，支持多语言配置
 
+#使用的python版本是2.7
+
 ## 双击.alfredworkflow文件即可安装(前提是开启了powerpack)
 
 ## 使用说明
