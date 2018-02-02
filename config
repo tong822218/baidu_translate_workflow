@@ -1,6 +1,6 @@
 [section1]
-appid = 20180131000120035
-secretKey = B_b8m1KW6cqRTlUBt3Kn
+appid = 20151113000005349
+secretKey = osubCEzlGjzvw8qdQc41
 httpClient = None
 myurl = /api/trans/vip/translate
 fromLang = auto
